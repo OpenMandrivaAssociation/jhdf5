@@ -23,6 +23,7 @@ Patch6:         jhdf5-0006-update-configure.patch
 BuildRequires:  jpackage-utils
 BuildRequires:  java-devel
 BuildRequires:  hdf5-devel
+BuildRequires:  netcdf-devel
 BuildRequires:  jpeg-devel
 BuildRequires:  slf4j
 
