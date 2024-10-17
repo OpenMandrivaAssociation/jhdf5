@@ -7,7 +7,7 @@ Summary:        Java HDF5 Package
 
 
 License:        BSD with advertising
-URL:            http://www.hdfgroup.org/hdf-java-html/
+URL:            https://www.hdfgroup.org/hdf-java-html/
 Source0:        http://www.hdfgroup.org/ftp/HDF5/hdf-java/src/hdf-java-%{version}-source.tar.gz
 Source1:        hdfview
 Source2:        hdfview.xml
