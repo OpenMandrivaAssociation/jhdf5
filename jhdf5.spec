@@ -20,6 +20,11 @@ Patch4:         jhdf5-0004-remove-writable-prefix-check.patch
 Patch5:         jhdf5-0005-update-config.sub-and-config.guess.patch
 Patch6:         jhdf5-0006-update-configure.patch
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:  jpackage-utils
 BuildRequires:  java-devel
 BuildRequires:  hdf5-devel
